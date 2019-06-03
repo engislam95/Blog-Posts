@@ -1,0 +1,30 @@
+#headH
+{
+	color:#e4734f  ; 
+}
+#head-blog
+{
+	color: #f3ae4b;  
+}
+#content
+{
+	color: #00a8b5 ;
+}
+.pb-4
+{
+	color: #343A40;
+}
+.jumbotron
+{
+	background-image: url('../images/background-business-computer-303383.jpg');
+	background-size: cover;
+}
+.sign
+{
+	background-color: #f3ae4b;
+	border:none;
+	padding: 7px 20px; 
+	color:#ffff;
+	margin-right: 2% ;
+	border-radius: 6px; 
+}

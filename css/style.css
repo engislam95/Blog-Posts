@@ -1,0 +1,182 @@
+.container
+{
+	width: 85% ;
+	margin:0 auto ; 
+}
+.main-page
+{ 
+	display: grid ;
+	grid-template-columns: 1fr 5fr ; 
+	background-image: url('../images/4685.jpg');
+	background-size: contain;
+
+}
+.side_menue{
+       background-color: #642b2b54;
+    padding-left: 29px;
+        width: 207px;
+    border-radius: 39%;
+    height: 460px;
+    margin-left: 19px;
+    margin-top: 20px;
+
+}
+h1,h2,h3,h4,h6{
+  
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h3
+{
+          color: #002447;
+
+}
+h5 {
+	
+	font-family: 'Lobster', cursive;
+}
+p
+{
+	color: #070d59;
+}
+a
+{
+    text-decoration: none;
+    margin: 0 ;
+	font-family: 'Lobster', cursive;
+	 color: #ffff;
+
+}
+.side_menue h2 
+{
+   color: #ffff;
+    margin-bottom: 40px;
+    background-color: #002447;
+    padding: 12px;
+    border-radius: 60%;
+    margin-top: 0px;
+    margin-left: -18px;
+    text-align: center;
+
+}
+.side_menue .logo img
+{
+	    margin-top: -16px;
+    margin-bottom: 50px;
+    width: 100px;
+        margin-left: 24px;
+
+}
+.side_menue ul
+{
+    margin-left: -38px;
+}
+.side_menue ul li 
+{
+	list-style: none;
+	margin-bottom: 50px; 
+	font-family: 'Playfair Display', serif;
+	  text-align: left;
+
+}
+.side_menue ul li a
+{
+ text-decoration: none;
+    margin: 0 ;
+	font-family: 'Lobster', cursive;
+	 color: #ffff;
+}
+.side_menue i 
+{
+	margin-right: 10px; 
+	    color: #facf5a;
+
+}
+
+.navbar 
+{
+	   margin-bottom: 192px;
+    background-color: #605a758c;
+    margin-top: 81px;
+    margin-right: 367px;
+    margin-left: 128px;
+    border-radius: 18px;
+}
+.navbar .navbar-brand
+{
+	text-decoration: none;
+    margin: 0 ;
+	font-family: 'Lobster', cursive;
+	 color: #ffff !important;
+}
+.navbar button
+{
+	color: #ffff; 
+}
+
+.Dashboard
+{
+	display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 110px;
+    width: 90%;
+    margin-left: 38px;
+
+}
+.Dashboard .post-name
+{
+	display: grid;
+    grid-row-gap: 50px;
+    border-right: 2px solid #516673;
+    margin-right: -26px;
+}
+.Dashboard .post-name h5
+{
+	    margin-bottom: -38px;
+}
+.post-content
+{
+display: grid;
+    border-right: 2px solid #516673;
+    margin-right: -52px;
+	
+}
+
+.actions h5
+{
+	margin-bottom: -38px;
+}
+.actions a
+{
+	text-decoration: none;
+    margin: 0 ;
+	font-family: 'Lobster', cursive;
+	       color: #be2c2c;
+
+
+    font-weight: bold;
+    font-size: 15px;
+}
+.all
+{
+	display: grid ;
+	grid-template-columns: 1fr 1fr 1fr ; 
+	grid-gap:110px;
+}
+span
+{
+	      position: relative;
+    top: 55px;
+    margin: 4px;
+
+}
+.alert-danger
+{
+	display: none;
+
+    
+}
+
+.alert-success
+{
+	display: none;
+}

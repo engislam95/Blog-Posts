@@ -1,0 +1,39 @@
+
+body
+{
+    background-image: url(../images/background-business-computer-303383.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+form
+{
+	    padding: 100px;
+width: 600px;
+height: 450px;
+margin: 0 auto;
+background-color: rgba(0, 9, 29, 0.6);
+background: rgba(0, 9, 29, 0.6);
+color: rgba(0, 9, 29, 0.6);
+margin-top: 100px; 
+}
+.Dashboard
+{
+    display: block;
+}
+
+.form-group label
+{
+	color: #ffff; 
+}
+form h2
+{
+	color: #ffff; 
+
+}
+.alert-danger
+{
+    display: none;
+
+    
+}
+

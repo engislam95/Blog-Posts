@@ -1,0 +1,52 @@
+body
+	{
+		background-image: url(../images/background-business-computer-303383.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+	form
+	{
+		    padding: 100px;
+    width: 600px;
+    height: 450px;
+    margin: 0 auto;
+    background-color: rgba(0, 9, 29, 0.6);
+    background: rgba(0, 9, 29, 0.6);
+    color: rgba(0, 9, 29, 0.6);
+	}
+	p
+	{
+		    font-size: 35px;
+    color: #ffff;
+    background-color: rgba(0, 9, 29, 0.6);
+    padding: 100px;
+    
+	}
+	label
+	{
+		color: #ffff; 
+	}
+	span
+	{
+		color: red; 
+	}
+	button 
+  {
+    margin-bottom:100px; 
+  }
+	.signup
+	{
+		padding:100px;
+	}
+	.alert {
+	display: block;
+    width: 400px;
+    margin: auto;
+    
+    left: 56%;
+    margin-left: -200px;
+    top: -172px;
+ }
+ .fade:not(.show) {
+    opacity: 1;
+}
