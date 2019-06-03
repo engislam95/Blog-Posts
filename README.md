@@ -10,4 +10,4 @@ JS - Ajax JQuery -LocalStorage - JsonPlaceHolder
 
 Check Demo:
 
-https://engislam95.github.io/Blog-Posts/.
+https://engislam95.github.io/Blog-Posts/.https://engislam95.github.io/Blog-Posts-Ajax-jQuery-/
